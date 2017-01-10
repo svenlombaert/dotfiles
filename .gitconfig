@@ -1,2 +1,6 @@
 [core]
 	excludesfile = /Users/svenlombaert/.gitignore_global
+	editor = nano
+[user]
+	name = Sven Lombaert
+	email = sven.lombaert@gmail.com
