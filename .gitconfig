@@ -4,3 +4,6 @@
 [user]
 	name = Sven Lombaert
 	email = sven.lombaert@gmail.com
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(blue) <%an>%Creset' --abbrev-commit
+	c = commit -am
