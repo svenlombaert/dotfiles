@@ -83,6 +83,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 # redefine prompt_context for hiding user@hostname
 prompt_context () { }
 
@@ -96,3 +97,6 @@ source $(brew --prefix nvm)/nvm.sh
 
 # include aliases
 [ -f .aliases ] && source .aliases
+
+# Init thefuck
+eval "$(thefuck --alias)"

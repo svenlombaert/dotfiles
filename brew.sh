@@ -19,6 +19,7 @@ brew install python
 brew install python3
 brew install composer
 brew install curl
+brew install thefuck
 
 # Install apps
 brew cask install docker
