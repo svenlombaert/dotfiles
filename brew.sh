@@ -30,6 +30,7 @@ brew cask install dropbox
 brew cask install kibako
 brew cask install jumpcut
 brew cask install franz
+brew cask install spotify
 
 # Clean
 brew cleanup
