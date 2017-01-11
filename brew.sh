@@ -31,6 +31,7 @@ brew cask install kibako
 brew cask install jumpcut
 brew cask install franz
 brew cask install spotify
+brew cask install atom
 
 # Clean
 brew cleanup
