@@ -16,3 +16,7 @@ Thumbs.db
 # Custom test files
 /test.php
 /.idea
+
+# Log files
+npm-debug.log
+npm-debug.log.*
