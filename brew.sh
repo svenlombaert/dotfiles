@@ -20,6 +20,7 @@ brew install python3
 brew install composer
 brew install curl
 brew install thefuck
+brew install git-standup
 
 # Install apps
 brew cask install docker
