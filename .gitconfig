@@ -9,3 +9,5 @@
 	c = commit -am
 	s = status
 	d = diff 
+[pager]
+	log = gitmoji-log | less --tabs=4 -rFX
