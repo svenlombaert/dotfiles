@@ -12,6 +12,7 @@ brew upgrade --all
 
 # Taps
 brew tap homebrew/php
+brew tap golemfactory/golem
 
 # Install
 brew install php71
@@ -21,6 +22,16 @@ brew install composer
 brew install curl
 brew install thefuck
 brew install git-standup
+brew install cask
+brew install curl
+brew install emacs
+brew install golem
+brew install nvm
+brew install php-code-sniffer
+brew install php71-xdebug
+brew install phpmd
+brew install phpunit
+brew install wget
 
 # Install apps
 brew cask install docker
@@ -36,6 +47,9 @@ brew cask install atom
 brew cask install whatsapp
 brew cask install messenger
 brew cask install telegram
+brew cask install insomnia
+brew cask install cyberduck
+brew cask install toggldesktop
 
 # Clean
 brew cleanup
