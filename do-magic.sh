@@ -53,3 +53,14 @@ brew cask install toggldesktop
 
 # Clean
 brew cleanup
+
+# Node
+nvm install stable
+
+# NPM
+npm i -g npm
+
+npm i -g create-react-app
+npm i -g gitmoji-cli
+npm i -g gitmoji-log
+npm i -g gulp
