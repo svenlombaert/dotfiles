@@ -33,6 +33,9 @@ brew cask install jumpcut
 brew cask install franz
 brew cask install spotify
 brew cask install atom
+brew cask install whatsapp
+brew cask install messenger
+brew cask install telegram
 
 # Clean
 brew cleanup
