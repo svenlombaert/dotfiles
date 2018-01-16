@@ -39,9 +39,7 @@ brew cask install kitematic
 brew cask install vlc
 brew cask install viscosity
 brew cask install dropbox
-brew cask install kibako
 brew cask install jumpcut
-brew cask install franz
 brew cask install spotify
 brew cask install atom
 brew cask install whatsapp
