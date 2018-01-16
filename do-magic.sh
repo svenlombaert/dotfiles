@@ -48,6 +48,8 @@ brew cask install telegram
 brew cask install insomnia
 brew cask install cyberduck
 brew cask install toggldesktop
+brew cask install webtorrent
+brew cask install utorrent
 
 # Clean
 brew cleanup
