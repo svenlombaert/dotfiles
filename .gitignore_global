@@ -20,3 +20,7 @@ Thumbs.db
 # Log files
 npm-debug.log
 npm-debug.log.*
+
+# IDE files
+/.vscode
+jsonfig.json
