@@ -11,3 +11,5 @@
 	d = diff
 [fetch]
 	prune = true
+[pull]
+	rebase = true
