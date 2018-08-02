@@ -11,6 +11,8 @@
 	d = diff
 	a = add
 	f = fetch --all
+	p = push
+	pl = pull
 [fetch]
 	prune = true
 [pull]
