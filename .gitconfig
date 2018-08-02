@@ -6,9 +6,11 @@
 	email = sven.lombaert@gmail.com
 [alias]
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(blue) <%an>%Creset' --abbrev-commit
-	c = commit -am
+	c = commit
 	s = status
 	d = diff
+	a = add
+	f = fetch --all
 [fetch]
 	prune = true
 [pull]
