@@ -1,3 +1,3 @@
 alias docker-up="docker-compose up -d"
 
-alias ppcopy="cp -a /Projects/Teamleader/project-planning/dist/. /Projects/Teamleader/core/public_html/project_planning"
+alias g="git"
