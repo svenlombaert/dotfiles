@@ -1,3 +1,3 @@
 alias docker-up="docker-compose up -d"
-
 alias g="git"
+alias cat="bat"
