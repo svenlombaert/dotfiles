@@ -34,6 +34,7 @@ brew install phpunit
 brew install wget
 brew install bat
 brew install fzf
+brew install diff-so-fancy
 
 # Install apps
 brew cask install docker

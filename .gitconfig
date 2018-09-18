@@ -20,3 +20,5 @@
 	rebase = true
 [pager]
 	log = gitmoji-log | less --tabs=4 -rFX
+	diff = diff-so-fancy | less --tabs=1,5 -RFX
+	show = diff-so-fancy | less --tabs=1,5 -RFX
