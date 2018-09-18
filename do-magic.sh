@@ -32,6 +32,7 @@ brew install php71-xdebug
 brew install phpmd
 brew install phpunit
 brew install wget
+brew install bat
 
 # Install apps
 brew cask install docker
