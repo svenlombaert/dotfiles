@@ -33,6 +33,7 @@ brew install phpmd
 brew install phpunit
 brew install wget
 brew install bat
+brew install fzf
 
 # Install apps
 brew cask install docker

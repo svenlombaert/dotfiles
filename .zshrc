@@ -97,3 +97,5 @@ eval "$(fasd --init auto)"
 
 # Init thefuck
 eval "$(thefuck --alias)"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
