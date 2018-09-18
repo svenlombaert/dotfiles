@@ -12,7 +12,6 @@ brew upgrade --all
 
 # Taps
 brew tap homebrew/php
-brew tap golemfactory/golem
 
 # Install
 brew install php71
@@ -25,7 +24,6 @@ brew install git-standup
 brew install cask
 brew install curl
 brew install emacs
-brew install golem
 brew install nvm
 brew install php-code-sniffer
 brew install php71-xdebug
