@@ -51,6 +51,8 @@ brew cask install cyberduck
 brew cask install toggldesktop
 brew cask install webtorrent
 brew cask install utorrent
+brew cask install jumpshare
+brew cask install slack
 
 # Clean
 brew cleanup
