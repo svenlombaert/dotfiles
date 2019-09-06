@@ -39,20 +39,18 @@ brew cask install docker
 brew cask install kitematic
 brew cask install vlc
 brew cask install viscosity
-brew cask install dropbox
 brew cask install jumpcut
 brew cask install spotify
-brew cask install atom
 brew cask install whatsapp
 brew cask install messenger
 brew cask install telegram
 brew cask install insomnia
 brew cask install cyberduck
-brew cask install toggldesktop
 brew cask install webtorrent
 brew cask install utorrent
 brew cask install jumpshare
 brew cask install slack
+brew cask install genymotion
 
 # Clean
 brew cleanup
