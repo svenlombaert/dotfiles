@@ -17,22 +17,17 @@ brew tap homebrew/php
 brew install php71
 brew install python
 brew install python3
-brew install composer
 brew install curl
 brew install thefuck
-brew install git-standup
 brew install cask
 brew install curl
 brew install emacs
 brew install nvm
-brew install php-code-sniffer
-brew install php71-xdebug
-brew install phpmd
-brew install phpunit
 brew install wget
 brew install bat
 brew install fzf
 brew install diff-so-fancy
+brew install zsh-autosuggestions
 
 # Install apps
 brew cask install docker
@@ -51,6 +46,7 @@ brew cask install utorrent
 brew cask install jumpshare
 brew cask install slack
 brew cask install genymotion
+brew cask install paw
 
 # Clean
 brew cleanup
