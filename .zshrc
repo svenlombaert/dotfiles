@@ -99,3 +99,6 @@ eval "$(fasd --init auto)"
 eval "$(thefuck --alias)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# zsh-autsuggestions
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
