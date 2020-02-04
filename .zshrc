@@ -1,7 +1,9 @@
-export ANDROID_HOME="/usr/local/share/android-sdk"
+export ANDROID_HOME=~/Library/Android/sdk
+export ANDROID_SDK_ROOT=~/Library/Android/sdk
+export ANDROID_ADB_HOME=/usr/local/share/android-sdk
 
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:$ANDROID_HOME/platform-tools:$PATH
+export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:$ANDROID_HOME/platform-tools:$ANDROID_ADB_HOME/platform-tools:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/svenlombaert/.oh-my-zsh
