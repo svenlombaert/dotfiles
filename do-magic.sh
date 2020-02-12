@@ -28,6 +28,7 @@ brew install bat
 brew install fzf
 brew install diff-so-fancy
 brew install zsh-autosuggestions
+brew install nano
 
 # Install apps
 brew cask install docker
