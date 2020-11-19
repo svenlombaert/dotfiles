@@ -49,6 +49,7 @@ brew cask install jumpshare
 brew cask install slack
 brew cask install genymotion
 brew cask install paw
+brew cask install tableplus
 
 # Clean
 brew cleanup
