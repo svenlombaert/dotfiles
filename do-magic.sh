@@ -16,12 +16,9 @@ brew tap clementtsang/bottom
 
 # Install
 brew install python3
-brew install curl
 brew install thefuck
 brew install cask
-brew install curl
 brew install emacs
-brew install nvm
 brew install wget
 brew install bat
 brew install fzf
@@ -54,13 +51,7 @@ brew cask install tableplus
 # Clean
 brew cleanup
 
-# Node
-nvm install stable
-
 # NPM
 npm i -g npm
 
-npm i -g create-react-app
-npm i -g gitmoji-cli
 npm i -g gitmoji-log
-npm i -g gulp
