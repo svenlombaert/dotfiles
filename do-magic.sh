@@ -15,8 +15,6 @@ brew tap homebrew/php
 brew tap clementtsang/bottom
 
 # Install
-brew install php71
-brew install python
 brew install python3
 brew install curl
 brew install thefuck
@@ -31,6 +29,7 @@ brew install diff-so-fancy
 brew install zsh-autosuggestions
 brew install nano
 brew install bottom
+brew install fasd
 
 # Install apps
 brew cask install docker
