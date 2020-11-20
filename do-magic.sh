@@ -11,8 +11,8 @@ brew update
 brew upgrade --all
 
 # Taps
-brew tap homebrew/php
 brew tap clementtsang/bottom
+brew tap adoptopenjdk/openjdk
 
 # Install
 brew install python3
@@ -29,6 +29,7 @@ brew install bottom
 brew install fasd
 
 # Install apps
+brew cask install adoptopenjdk8
 brew cask install docker
 brew cask install kitematic
 brew cask install vlc
