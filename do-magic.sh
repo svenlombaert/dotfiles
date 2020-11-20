@@ -47,6 +47,7 @@ brew cask install slack
 brew cask install genymotion
 brew cask install paw
 brew cask install tableplus
+brew cask install visual-studio-code
 
 # Clean
 brew cleanup
