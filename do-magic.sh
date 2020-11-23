@@ -15,6 +15,7 @@ brew tap clementtsang/bottom
 brew tap adoptopenjdk/openjdk
 
 # Install
+brew install node
 brew install python3
 brew install thefuck
 brew install cask
