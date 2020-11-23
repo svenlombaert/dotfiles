@@ -35,7 +35,7 @@ brew cask install docker
 brew cask install kitematic
 brew cask install vlc
 brew cask install viscosity
-brew cask install jumpcut
+brew cask install maccy
 brew cask install spotify
 brew cask install whatsapp
 brew cask install messenger
