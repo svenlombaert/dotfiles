@@ -7,9 +7,6 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 # Make sure we’re using the latest Homebrew
 brew update
 
-# Upgrade any already-installed formulae
-brew upgrade --all
-
 # Taps
 brew tap clementtsang/bottom
 brew tap adoptopenjdk/openjdk
@@ -28,6 +25,7 @@ brew install zsh-autosuggestions
 brew install nano
 brew install bottom
 brew install fasd
+brew install cocoapods
 
 # Install apps
 brew cask install adoptopenjdk8
