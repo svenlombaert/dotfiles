@@ -26,6 +26,7 @@ brew install nano
 brew install bottom
 brew install fasd
 brew install cocoapods
+brew install mitmproxy
 
 # Install apps
 brew cask install adoptopenjdk8
