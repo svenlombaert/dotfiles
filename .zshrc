@@ -106,3 +106,6 @@ eval "$(thefuck --alias)"
 
 # zsh-autsuggestions
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+# preserve npm version with n
+export N_PRESERVE_NPM=1
