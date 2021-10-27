@@ -29,26 +29,24 @@ brew install cocoapods
 brew install mitmproxy
 
 # Install apps
-brew cask install adoptopenjdk8
-brew cask install docker
-brew cask install kitematic
-brew cask install vlc
-brew cask install viscosity
-brew cask install maccy
-brew cask install spotify
-brew cask install whatsapp
-brew cask install messenger
-brew cask install telegram
-brew cask install insomnia
-brew cask install cyberduck
-brew cask install webtorrent
-brew cask install utorrent
-brew cask install jumpshare
-brew cask install slack
-brew cask install genymotion
-brew cask install paw
-brew cask install tableplus
-brew cask install visual-studio-code
+brew install adoptopenjdk8
+brew install docker
+brew install vlc
+brew install viscosity
+brew install maccy
+brew install spotify
+brew install whatsapp
+brew install messenger
+brew install telegram
+brew install insomnia
+brew install cyberduck
+brew install webtorrent
+brew install utorrent
+brew install slack
+brew install paw
+brew install tableplus
+brew install visual-studio-code
+brew install zoom
 
 # Clean
 brew cleanup
