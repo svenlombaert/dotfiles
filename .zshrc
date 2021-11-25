@@ -100,6 +100,8 @@ eval "$(fasd --init auto)"
 [ -f .aliases ] && source .aliases
 
 # Init thefuck
+export THEFUCK_PRIORITY="git_hook_bypass=1100"
+
 eval "$(thefuck --alias)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
