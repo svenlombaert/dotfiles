@@ -10,6 +10,8 @@ export ZSH=/Users/svenlombaert/.oh-my-zsh
 export LANG='en_US.UTF-8';
 export LC_ALL='en_US.UTF-8';
 
+export JAVA_HOME=$(/usr/libexec/java_home)
+
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
