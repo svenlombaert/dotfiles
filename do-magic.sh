@@ -13,10 +13,8 @@ brew tap adoptopenjdk/openjdk
 
 # Install
 brew install n
-brew install python3
 brew install thefuck
 brew install cask
-brew install emacs
 brew install wget
 brew install bat
 brew install fzf
@@ -29,7 +27,7 @@ brew install cocoapods
 brew install mitmproxy
 
 # Install apps
-brew install adoptopenjdk8
+brew install adoptopenjdk11
 brew install docker
 brew install vlc
 brew install viscosity
