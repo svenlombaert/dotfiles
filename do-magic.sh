@@ -45,6 +45,8 @@ brew install paw
 brew install tableplus
 brew install visual-studio-code
 brew install zoom
+brew install ngrok
+brew install discord
 
 # Clean
 brew cleanup
