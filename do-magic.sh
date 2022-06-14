@@ -25,6 +25,7 @@ brew install bottom
 brew install fasd
 brew install cocoapods
 brew install mitmproxy
+brew install ngrok
 
 # Install apps
 brew install adoptopenjdk11
@@ -45,7 +46,6 @@ brew install paw
 brew install tableplus
 brew install visual-studio-code
 brew install zoom
-brew install ngrok
 brew install discord
 
 # Clean
