@@ -54,7 +54,6 @@ PROMPT="
 %{$terminfo[bold]$fg[yellow]%}[${current_dir}]%{$reset_color%} \
 ${hg_info} \
 ${git_info} \
-${git_last_commit}
 %{$fg[red]%}%* \
 %{$terminfo[bold]$fg[white]%}› %{$reset_color%}"
 
