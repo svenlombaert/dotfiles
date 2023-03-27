@@ -59,7 +59,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -107,9 +107,6 @@ export THEFUCK_PRIORITY="git_hook_bypass=1100"
 eval "$(thefuck --alias)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
-# zsh-autsuggestions
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # preserve npm version with n
 export N_PRESERVE_NPM=1
