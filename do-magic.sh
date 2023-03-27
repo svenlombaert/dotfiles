@@ -26,6 +26,8 @@ brew install fasd
 brew install cocoapods
 brew install mitmproxy
 brew install ngrok
+brew install rbenv
+brew install ruby-build
 
 # Install apps
 brew install adoptopenjdk11
