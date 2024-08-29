@@ -1,16 +1,20 @@
 export ANDROID_HOME=~/Library/Android/sdk
 
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:$ANDROID_HOME/platform-tools:$PATH
+export PATH=$HOME/bin:/usr/local/sbin:/usr/local/bin:$ANDROID_HOME/platform-tools:/usr/local/bin:$ANDROID_HOME/emulator:/opt/homebrew/opt/python/libexec/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/svenlombaert/.oh-my-zsh
+
+# Export Java version
+export JAVA_HOME=$(/usr/libexec/java_home -v 17)
 
 # US English and UTF-8
 export LANG='en_US.UTF-8';
 export LC_ALL='en_US.UTF-8';
 
-export JAVA_HOME=$(/usr/libexec/java_home)
+# Code editor of your choice
+export EDITOR=cursor
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
