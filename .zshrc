@@ -114,6 +114,9 @@ eval "$(thefuck --alias)"
 
 # preserve npm version with n
 export N_PRESERVE_NPM=1
+export N_PRESERVE_COREPACK=1
 
 # load rbenv
 eval "$(rbenv init - zsh)"
+
+PROMPT="${PROMPT}"$'\n'
