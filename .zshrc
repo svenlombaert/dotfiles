@@ -1,9 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=/opt/homebrew/bin:$HOME/bin:/usr/local/sbin:/usr/local/bin:$PATH
 
-# Init zsh-autocomplete
-source /opt/homebrew/share/zsh-autocomplete/zsh-autocomplete.plugin.zsh
-
 # Move to directories without cd
 setopt autocd
 
@@ -33,3 +30,5 @@ eval "$(starship init zsh)"
 # Set-up zsh auto-suggestions
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+# Highlight folders when tabbing through them
+zstyle ':completion:*' menu yes select
