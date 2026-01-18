@@ -2,3 +2,5 @@ alias docker-up="docker-compose up -d"
 alias g="git"
 alias cat="bat"
 alias fix-damn-audio="xcrun simctl shutdown all && sudo launchctl stop com.apple.audio.coreaudiod && sudo launchctl start com.apple.audio.coreaudiod"
+alias brew-save='brew bundle dump --force'
+
